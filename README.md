@@ -6,7 +6,7 @@
 - Also you can see my practices about JavaScript & Html & CSS
 - I continue to study English at courses too, currently I have a pre-intermediate level
 - 📫 How to reach me - nekijt87@gmail.com
-- www.linkedin.com/in/anatolii-zhykhariev
+- www.linkedin.com/in/anatolii-zhykhariev-b66280195/
 
 <!---
 ZhykharievAnatolii/ZhykharievAnatolii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
