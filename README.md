@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhykharievAnatolii
-- 👀 I’m interested in Frontend development
+- 👀 I’m Frontend developer
 - 🌱 I’m currently learning JavaScript
 - I have already finished a basic course about JavaScript, Node, React, Html and CSS, and have basic knowledge about the structure and how  it works
 - I have my projects, which you can familiarize yourself with on my Github page
