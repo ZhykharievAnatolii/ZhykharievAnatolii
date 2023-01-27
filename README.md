@@ -1,5 +1,5 @@
-Hi, I’m @ZhykharievAnatolii 
-I’m a Frontend developer 
+Hi, I’m @ZhykharievAnatolii
+I’m a Frontend developer
 I’m currently learning JavaScript.
 I like the chosen field of activity and I have experience in continuous learning.
 I study every day, and I am happy to learn something new.
