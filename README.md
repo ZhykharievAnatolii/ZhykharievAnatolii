@@ -11,6 +11,7 @@ I have my projects, which you can familiarize yourself  on my GitHub page.
 I continue to study English in courses too, 
 currently, I have an intermediate level.
 📫 How to reach me - nekijt87@gmail.com
+zhykharievanatolii@gmail.com
 https://github.com/ZhykharievAnatolii
 https://www.linkedin.com/in/anatolii-zhykhariev-b66280195/
 
